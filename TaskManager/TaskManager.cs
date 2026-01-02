@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TaskManager
 {
-    internal class TaskManager
+    internal class DataManager
     {
         public static Dictionary<string, TaskModel> AllTask = new Dictionary<string, TaskModel>();
     }
